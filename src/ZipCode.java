@@ -8,12 +8,7 @@ public class ZipCode {
         Boolean adress = sc.hasNext("\\d{2}-\\d{3}");
 
 
-//        if (adress == true) {
-//            System.out.println("Podales poprawny adres");
-//        } else {
-//            System.out.println("Podales zly adres");
-//        }
-//        something
+
     }
 }
 
